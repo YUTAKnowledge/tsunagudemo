@@ -1,0 +1,3 @@
+$ git clone git@github.com:skyway/skyway-js-skeleton.git
+$ cd skyway-js-skeleton
+$ npm install & npm start
